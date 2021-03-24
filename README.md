@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew Kardash.I`m 26 years old and i`m from Lviv.
+- 👋 Hi, I’m Andrew Kardash. I’m 26 years old and i’m from Lviv.
 - 👀 I’m interested in being a front-end developer. 
 - :mortar_board: I’m currently learning front-end(html, css, js, scss, gulp, node.js, react)
 - :office: I'm looking to collaborate on commercial/non commercial project for myself experience 
